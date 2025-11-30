@@ -4,7 +4,7 @@ A modern, responsive landing page built with **Next.js**, **Tailwind CSS**, and 
 
 ## Live Demo
 
-Deployed on Vercel: [Add your deployed URL here]
+Deployed on Vercel: https://landing-page-assignment-green-ten.vercel.app/
 
 ## Features
 
