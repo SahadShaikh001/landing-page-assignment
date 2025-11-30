@@ -71,7 +71,7 @@ Deployed on Vercel: https://landing-page-assignment-green-ten.vercel.app/
 
 1. Clone the repository:
 \`\`\`bash
-git clone [repository-url]
+git clone https://github.com/SahadShaikh001/landing-page-assignment.git
 cd taskflow-landing
 \`\`\`
 
